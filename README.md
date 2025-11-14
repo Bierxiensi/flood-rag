@@ -1,0 +1,1 @@
+TTM 在零样本/少样本预测方面优于 TimesFM、Moirai、Chronos、Lag-Llama、Moment、GPT4TS、TimeLLM 和 LLMTime 等常用基准模型
